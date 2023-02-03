@@ -1,0 +1,10 @@
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Aspnet Core Enterprise Applications\NerdStoreEnterprise\NerdStoreEnterprise\src\building blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.deps.json
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Aspnet Core Enterprise Applications\NerdStoreEnterprise\NerdStoreEnterprise\src\building blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.dll
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Aspnet Core Enterprise Applications\NerdStoreEnterprise\NerdStoreEnterprise\src\building blocks\NSE.Core\bin\Debug\netcoreapp3.1\NSE.Core.pdb
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Aspnet Core Enterprise Applications\NerdStoreEnterprise\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.csproj.AssemblyReference.cache
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Aspnet Core Enterprise Applications\NerdStoreEnterprise\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Aspnet Core Enterprise Applications\NerdStoreEnterprise\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.AssemblyInfoInputs.cache
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Aspnet Core Enterprise Applications\NerdStoreEnterprise\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.AssemblyInfo.cs
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Aspnet Core Enterprise Applications\NerdStoreEnterprise\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.csproj.CoreCompileInputs.cache
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Aspnet Core Enterprise Applications\NerdStoreEnterprise\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.dll
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Aspnet Core Enterprise Applications\NerdStoreEnterprise\NerdStoreEnterprise\src\building blocks\NSE.Core\obj\Debug\netcoreapp3.1\NSE.Core.pdb

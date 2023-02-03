@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = NSE.Pedido.API
+build_property.ProjectDir = C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Aspnet Core Enterprise Applications\NerdStoreEnterprise\NerdStoreEnterprise\src\services\NSE.Pedido.API\
