@@ -362,3 +362,5 @@ C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Aspnet Core Enterprise Applicati
 C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Aspnet Core Enterprise Applications\NerdStoreEnterprise\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Aspnet Core Enterprise Applications\NerdStoreEnterprise\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Aspnet Core Enterprise Applications\NerdStoreEnterprise\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Summary\Default.cshtml.g.cs
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Aspnet Core Enterprise Applications\NerdStoreEnterprise\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\Index.cshtml.g.cs
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Aspnet Core Enterprise Applications\NerdStoreEnterprise\NerdStoreEnterprise\src\web\NSE.WebApp.MVC\obj\Debug\netcoreapp3.1\Razor\Views\Catalogo\ProdutoDetalhe.cshtml.g.cs
