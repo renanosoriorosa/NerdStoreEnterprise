@@ -1872,6 +1872,19 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlSerializer.dll": {}
         }
+      },
+      "NSE.WebAPI.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "Microsoft.AspNetCore.Authentication.JwtBearer": "3.1.4"
+        },
+        "compile": {
+          "bin/placeholder/NSE.WebAPI.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NSE.WebAPI.Core.dll": {}
+        }
       }
     }
   },
@@ -6218,6 +6231,11 @@
         "system.xml.xmlserializer.4.3.0.nupkg.sha512",
         "system.xml.xmlserializer.nuspec"
       ]
+    },
+    "NSE.WebAPI.Core/1.0.0": {
+      "type": "project",
+      "path": "../../building blocks/NSE.WebAPI.Core/NSE.WebAPI.Core.csproj",
+      "msbuildProject": "../../building blocks/NSE.WebAPI.Core/NSE.WebAPI.Core.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -6231,6 +6249,7 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 3.1.31",
       "Microsoft.EntityFrameworkCore.Tools >= 3.1.31",
       "Microsoft.VisualStudio.Azure.Containers.Tools.Targets >= 1.17.0",
+      "NSE.WebAPI.Core >= 1.0.0",
       "Swashbuckle.AspNetCore >= 5.3.3"
     ]
   },
@@ -6268,7 +6287,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Renan\\Documents\\Cursos\\DesenvolvedorIO\\Aspnet Core Enterprise Applications\\NerdStoreEnterprise\\NerdStoreEnterprise\\src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj": {
+              "projectPath": "C:\\Users\\Renan\\Documents\\Cursos\\DesenvolvedorIO\\Aspnet Core Enterprise Applications\\NerdStoreEnterprise\\NerdStoreEnterprise\\src\\building blocks\\NSE.WebAPI.Core\\NSE.WebAPI.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
