@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "/NQzGfByqWBvHN/c37i/6lN/VLj1BIBz9vsyMhPYgg/NsvPN8tcNKdA35cg9n12NkAE2d9oDIB+qGfTtOqmdlQ==",
+  "dgSpecHash": "LjV7fjlRS1SBgaYP5lte6uglvuS4qbEPGuD8Ju8udFjQfB2aoJYf0yZvqENzknV0Knf8pwGFxExM8bOZ6f3gZA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Renan\\Documents\\Cursos\\DesenvolvedorIO\\Aspnet Core Enterprise Applications\\NerdStoreEnterprise\\NerdStoreEnterprise\\src\\services\\NSE.Identidade.API\\NSE.Identidade.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Renan\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
     "C:\\Users\\Renan\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.31\\microsoft.aspnetcore.authentication.jwtbearer.3.1.31.nupkg.sha512",
     "C:\\Users\\Renan\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.31\\microsoft.aspnetcore.cryptography.internal.3.1.31.nupkg.sha512",
     "C:\\Users\\Renan\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.31\\microsoft.aspnetcore.cryptography.keyderivation.3.1.31.nupkg.sha512",

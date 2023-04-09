@@ -68,3 +68,5 @@ C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Aspnet Core Enterprise Applicati
 C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Aspnet Core Enterprise Applications\NerdStoreEnterprise\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Aspnet Core Enterprise Applications\NerdStoreEnterprise\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.dll
 C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Aspnet Core Enterprise Applications\NerdStoreEnterprise\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\NSE.WebAPI.Core.pdb
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Aspnet Core Enterprise Applications\NerdStoreEnterprise\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Renan\Documents\Cursos\DesenvolvedorIO\Aspnet Core Enterprise Applications\NerdStoreEnterprise\NerdStoreEnterprise\src\services\NSE.Catalogo.API\bin\Debug\netcoreapp3.1\MediatR.dll

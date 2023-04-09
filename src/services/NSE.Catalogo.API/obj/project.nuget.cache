@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "h6sflMCsVaYr3TCX4Yzt50S4pl9qy7Mzx3UEY+GmXpDFFb4bM/YPg/89+emYY/h1kLp7YgeVpjWL34pu80cwZw==",
+  "dgSpecHash": "bmNVexSg7gGXgoAAqK6GQnfnWbN8LXJtKiiRFJ1DijUfKAYAn861c1FBDPXy22BKnrq3VnnXEG++EHbdrppjMg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Renan\\Documents\\Cursos\\DesenvolvedorIO\\Aspnet Core Enterprise Applications\\NerdStoreEnterprise\\NerdStoreEnterprise\\src\\services\\NSE.Catalogo.API\\NSE.Catalogo.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Renan\\.nuget\\packages\\fluentvalidation\\8.6.2\\fluentvalidation.8.6.2.nupkg.sha512",
+    "C:\\Users\\Renan\\.nuget\\packages\\mediatr\\8.0.1\\mediatr.8.0.1.nupkg.sha512",
     "C:\\Users\\Renan\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\3.1.4\\microsoft.aspnetcore.authentication.jwtbearer.3.1.4.nupkg.sha512",
     "C:\\Users\\Renan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Renan\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.1\\microsoft.bcl.hashcode.1.1.1.nupkg.sha512",
